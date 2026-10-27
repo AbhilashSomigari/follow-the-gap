@@ -1,4 +1,4 @@
-# Lab 4: Follow the Gap
+# Lab 3: Follow the Gap
 
 Reactive obstacle avoidance for the F1TENTH car using the Follow the Gap
 algorithm, implemented as the ROS 2 Python package `gap_follow`.
